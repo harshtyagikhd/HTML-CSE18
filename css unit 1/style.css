@@ -1,0 +1,16 @@
+body{
+    /* margin: 0;
+    padding: 0;
+    background-color: #999;
+    background-image:url(WhatsApp\ Image\ 2025-10-04\ at\ 8.09.27\ PM.jpeg);
+    background-repeat: no-repeat;
+    background-position: top right; */
+    /* background-size: cover; */
+    background: url(WhatsApp\ Image\ 2025-10-04\ at\ 8.09.27\ PM.jpeg) no-repeat top right,
+    url(WhatsApp\ Image\ 2025-09-25\ at\ 2.17.25\ PM.jpeg) no-repeat top left;
+}
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box
+}
